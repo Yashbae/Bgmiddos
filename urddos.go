@@ -44,7 +44,7 @@ var (
 	key     string
 	choice  = []string{"Macintosh", "Windows", "X11"}
 	choice2 = []string{"68K", "PPC", "Intel Mac OS X"}
-	choice3 = []string{"Win3.11", "WinNT3.51", "WinNT4.0", "Windows NT 5.0", "Windows NT 5.1", "Windows NT 5.2", "Windows NT 6.0", "Windows NT 6.1", "Windows NT 6.2", "Win 9x 4.90", "WindowsCE", "Windows XP", "Windows 7", "Windows 8", "Windows NT 10.0; Win64; x64"}
+	choice3 = []string{"Win3.11", "WinNT3.51", "WinNT4.0", "Windows NT 5.0", "Windows NT 5.1", "Windows NT 5.2", "Windows NT 6.0", "Windows NT 6.1", "Windows NT 6.2", "Win 9x 4.90", "WindowsCE", "Windows XP", "Windows 7", "Windows 8", "Windows NT 10.0", "windows 11.0; Win64; x64"}
 	choice4 = []string{"Linux i686", "Linux x86_64"}
 	choice5 = []string{"chrome", "spider", "ie"}
 	choice6 = []string{".NET CLR", "SV1", "Tablet PC", "Win64; IA64", "Win64; x64", "WOW64"}
